@@ -1,5 +1,0 @@
-{
-    "java.compile.nullAnalysis.mode": "automatic",
-    "search.useGlobalIgnoreFiles": true,
-    "search.useParentIgnoreFiles": true
-}
